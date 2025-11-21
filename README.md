@@ -81,15 +81,7 @@ If you want to clone and run this project on your own machine:
 
 ---
 
-## 📸 Project Screenshots
 
-*(You can upload screenshots to your repo and link them here)*
-
-| Chat Interface | Translation Modal |
-| :---: | :---: |
-| ![Chat UI](https://via.placeholder.com/300x500?text=Glass+UI) | ![Modal](https://via.placeholder.com/300x500?text=Translate+Menu) |
-
----
 
 ## 📄 License
 
