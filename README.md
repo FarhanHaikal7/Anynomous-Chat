@@ -5,7 +5,7 @@
 
 > A modern, real-time messaging application featuring Glassmorphism UI and on-demand AI translation.
 
-**[🔴 Live Demo]((https://polyglot-chat-9beb1.web.app/))** *(Replace this with your actual Firebase link)*
+**[🔴 Live Demo]((https://polyglot-chat-9beb1.web.app/))** *((https://polyglot-chat-9beb1.web.app/))*
 
 ---
 
